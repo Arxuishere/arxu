@@ -40,7 +40,7 @@ def methods():
 def main():
     logo()
     while(True):
-        cnc = input('''\x1b[38;2;255;255;255mPanel@Flare\n =>\x1b[38;2;255;255;255m''')
+        cnc = input('''\x1b[38;2;255;255;255mArxu@panel\n =>\x1b[38;2;255;255;255m''')
         if cnc == "Methods" or cnc == "METHODS" or cnc == "methods" or cnc == "MTDS":
             methods()
         elif cnc == "clear" or cnc == "CLEAR" or cnc == "CLS" or cnc == "Clear":
