@@ -2,4 +2,8 @@
 Premium DDoS
 Installation : t.me/A0R3A
 My channel : t.me/A0R3arxu
-If you want then contact me
+If you want then contact me..
+bcoz You need methods and Password😁
+
+
+
