@@ -14,12 +14,12 @@ cd arxu
 ```python
 python3 arxu.py
 ```
-###Username: 
+##Username: 
 password:
 
 ***i Won't say***😁
 
-###**Telegram**
+##**Telegram**
 
 htttps://t.me/A0R3A
 
