@@ -1,28 +1,27 @@
-# ARXU
-ARXU is a premium DDoS tool by ĀRXŪ. 
+# ĀRXŪ Cybernetic Arsenal - ARXU 3.0
 
-## Installation
+Unleash the power of ARXU, the premium Quantum DDoS tool designed by ĀRXŪ.
+
+## Quantum Installation
 
 ```bash
 git clone https://github.com/Arxuishere/arxu/
 ```
+## **Quantum Activation**
 ```bash
 cd arxu
 ```
-## Usage
-
 ```python
 python3 arxu.py
 ```
-Or
+###Username: 
+password:
 
-```python
-python3 a.py
-```
-##Contact
+***i Won't say***😁
 
-https://t.me/A0R3A
+###**Telegram**
 
-Channel:
+htttps://t.me/A0R3A
 
+**Channel**
 https://t.me/A0R3arxu
