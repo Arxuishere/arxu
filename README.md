@@ -11,6 +11,11 @@ git clone https://github.com/Arxuishere/arxu/
 ```bash
 cd arxu
 ```
+Must install 
+```bash
+npm install user-agents
+```
+
 ```python
 python3 arxu.py
 ```
