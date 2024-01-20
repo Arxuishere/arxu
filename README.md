@@ -20,9 +20,9 @@ Or
 python3 a.py
 ```
 ##Contact
-```
+
 https://t.me/A0R3A
-```
+
 Channel:
 
 https://t.me/A0R3arxu
