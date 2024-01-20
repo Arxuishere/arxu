@@ -17,7 +17,7 @@ npm install user-agents
 ```
 
 ```python
-python3 arxu.py
+python3 axu.py
 ```
 ##Username: 
 password:
