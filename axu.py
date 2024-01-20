@@ -13,8 +13,8 @@ def neofetch():
     os.system("neofetch --ascii_colors 4 6 2 5 1 3 --ascii_distro Linux")
 
 def atas():
-    print('| \x1b[38;2;0;255;0mWelcome To \x1b[38;2;255;255;255mĀRXŪ DDoS Panel\x1b[38;2;0;255;0m | ')
-    print('                              {bots}                                     ')
+    print('| \x1b[38;2;0;255;0mInitializing ĀRXŪ DDoS Matrix...\x1b[38;2;255;255;255m | ')
+    print('                        {Access Granted}                              ')
     print("")
 
 def logo():
@@ -33,10 +33,10 @@ def methods():
     print("""
 
 » \x1b[38;2;0;255;0mLayer7:\x1b[38;2;255;255;255m
-        \x1b[38;2;0;255;0mTLS1\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
-        \x1b[38;2;0;255;0mTLS2\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
-        \x1b[38;2;0;255;0mTLS3\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
-        \x1b[38;2;0;255;0mTLS4\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
+        \x1b[38;2;0;255;0mInitiate TLS1 Matrix\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
+        \x1b[38;2;0;255;0mActivate TLS2 Storm\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
+        \x1b[38;2;0;255;0mEngage TLS3 Skyfall\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
+        \x1b[38;2;0;255;0mExecute TLS4 Overload\x1b[38;2;255;255;255m <Target> <Time> <Rate> <threads>
 """)
 
 def main():
@@ -59,8 +59,11 @@ def main():
             except IndexError:
                 print('Usage: TLS1 <Target> <Time> <Rate> <threads> ')
                 print('Example: TLS1 https://example.com 120 512 1000')
-                print(' Tls-Bypass ')
+                print(' Initializing Tls-Bypass Matrix...')
 
+
+
+        
         elif "TLS2" in cnc:  # TLSFLOOD
             try:
                 target = cnc.split()[1]
