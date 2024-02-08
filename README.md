@@ -7,7 +7,7 @@ Unleash the power of ARXU, the premium Quantum DDoS tool designed by ĀRXŪ.
 ```bash
 sudo apt install neofetch -y
 
-
+```
 ```bash
 git clone https://github.com/Arxuishere/arxu/
 ```
