@@ -19,16 +19,18 @@ Must install
 ```bash
 npm install user-agents
 ```
-
+```bash
+npm install fakeagent
+```
 ```python
 python3 axu.py
 ```
-##Username: 
+## Username: 
 password:
 
 ***i Won't say***😁
 
-##**Contact**
+## **Contact**
 
 htttps://t.me/A0R3A
 
